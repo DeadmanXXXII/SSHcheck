@@ -11,6 +11,10 @@ This script checks SSH login credentials using the Paramiko library in Python. I
 
 ## Installation
 
+```bash
+   git clone https://github.com/DeadmanXXXII/SSHcheck.git
+   ```
+
 1. **Install Dependencies**:
    Ensure you have the required libraries. You can install Paramiko, Requests and Socket using pip:
 
